@@ -1,4 +1,4 @@
-package ForLoopExample;
+package Day2;
 
 public class ForLoopExample {
 
