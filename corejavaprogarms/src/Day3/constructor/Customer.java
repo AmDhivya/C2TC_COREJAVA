@@ -1,6 +1,4 @@
-//Program to demonstrate Constructor 
-package Day3;
-
+package Day3.constructor;
 public class Customer {
 	 private String customerName;
 	 private int customerId;
