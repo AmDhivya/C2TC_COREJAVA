@@ -1,6 +1,6 @@
 package Day4.secondpackage;
 
-import Day4.firstpackage;
+import Day4.firstpackage.Base;
 
 public class Executor {
 	public static void main(String[] args) {
