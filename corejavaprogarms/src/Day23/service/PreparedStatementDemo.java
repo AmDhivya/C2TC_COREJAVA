@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.tnsif.daytwentytwo.preparedstatementinterface.DBUtil;
+import Day22.preparedstatementinterface.DBUtil;
 
 public class PreparedStatementDemo {
 

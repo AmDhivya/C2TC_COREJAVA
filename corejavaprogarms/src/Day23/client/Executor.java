@@ -1,6 +1,6 @@
 package Day23.client;
 
-import com.tnsif.daytwentytwo.preparedstatementinterface.PreparedStatementDemo;
+import Day22.preparedstatementinterface.PreparedStatementDemo;
 
 public class Executor {
 
