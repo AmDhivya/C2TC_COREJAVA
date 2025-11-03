@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.sql.Types;
 
-import com.tnsif.daytwentytwo.v1.usingpreparedstatement.DBUtil;
+import Day22.v1.usingpreparedstatement.DBUtil;
 
 
 

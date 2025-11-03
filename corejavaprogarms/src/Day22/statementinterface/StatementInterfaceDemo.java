@@ -8,7 +8,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-import com.mysql.cj.jdbc.result.ResultSetMetaData;
 
 public class StatementInterfaceDemo {
 	static Connection cn;
